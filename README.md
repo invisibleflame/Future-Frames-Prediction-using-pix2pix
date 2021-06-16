@@ -9,6 +9,9 @@ Part of Winter of GANs
 ## Generator
 The architecture is of U-Net kind, which takes input as a sketch images of size (256 X 256 X 3) and outputs a coloured image of size (256 X 256 X 3). Encoder layer consists of 8 layers which convert images into latent space of size (1 X 1 X 512). Decoder contains 7 layer which upsamples the image. L1 loss is used to the generator along with the cGan loss
 
+<img src="/results/genmodel.png"/>
+
+
 ## Discriminator
 It takes sketch as well as coloured images a input and stack one on another. It return the probability that given the sketch, does the coloured image belongs to it or not.
 
@@ -29,4 +32,5 @@ Inputs:
 Outputs: 
 
 <img src="/results/8.png" width="128"/> <img src="/results/9.png" width="128"/> <img src="/results/10.png" width="128"/> <img src="/results/11.png" width="128"/> <img src="/results/12.png" width="128"/> <img src="/results/13.png" width="128"/> <img src="/results/14.png" width="128"/>
-Made with ❤ by Bhuvan Aggarwal and Omkar Ghugarkar
+
+<center>Made with ❤ by Bhuvan Aggarwal and Omkar Ghugarkar</center>
