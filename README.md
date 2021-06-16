@@ -21,6 +21,6 @@ Link to data used: https://drive.google.com/drive/folders/1kZwg82ANdirnviPJjOKSA
 
 Results
 
-![image](/results/1.png) ![image](/results/2.png)
+![image](/results/1.png) ![image](/results/2.png) ![image](/results/3.png) ![image](/results/4.png) ![image](/results/5.png) ![image](/results/6.png)  ![image](/results/7.png)
 
 Made with ❤ by Bhuvan Aggarwal and Omkar Ghugarkar
