@@ -21,7 +21,12 @@ Link to data used: https://drive.google.com/drive/folders/1kZwg82ANdirnviPJjOKSA
 
 ## Results
 
+Inputs:
+
 <img src="/results/1.png" width="128"/> <img src="/results/2.png" width="128"/> <img src="/results/3.png" width="128"/> <img src="/results/4.png" width="128"/> <img src="/results/5.png" width="128"/> <img src="/results/6.png" width="128"/> <img src="/results/7.png" width="128"/>
 <!-- ![image](/results/1.png) ![image](/results/2.png) ![image](/results/3.png) ![image](/results/4.png) ![image](/results/5.png) ![image](/results/6.png)  ![image](/results/7.png) -->
 
+Outputs: 
+
+<img src="/results/8.png" width="128"/> <img src="/results/9.png" width="128"/> <img src="/results/10.png" width="128"/> <img src="/results/11.png" width="128"/> <img src="/results/12.png" width="128"/> <img src="/results/13.png" width="128"/> <img src="/results/14.png" width="128"/>
 Made with ❤ by Bhuvan Aggarwal and Omkar Ghugarkar
