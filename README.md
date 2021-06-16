@@ -20,7 +20,7 @@ Link to the code in colab can be found here. Make a copy of the colab notebook i
 Link to data used: https://drive.google.com/drive/folders/1kZwg82ANdirnviPJjOKSAXN-GixH7fmN?usp=sharing
 
 Results
-
-![image](/results/1.png){ width=50% } ![image](/results/2.png) ![image](/results/3.png) ![image](/results/4.png) ![image](/results/5.png) ![image](/results/6.png)  ![image](/results/7.png)
+<img src="/results/1.png" width="128"/>
+![image](/results/1.png) ![image](/results/2.png) ![image](/results/3.png) ![image](/results/4.png) ![image](/results/5.png) ![image](/results/6.png)  ![image](/results/7.png)
 
 Made with ❤ by Bhuvan Aggarwal and Omkar Ghugarkar
