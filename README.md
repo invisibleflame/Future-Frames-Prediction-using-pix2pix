@@ -33,6 +33,6 @@ Outputs:
 
 <img src="/results/8.png" width="128"/> <img src="/results/9.png" width="128"/> <img src="/results/10.png" width="128"/> <img src="/results/11.png" width="128"/> <img src="/results/12.png" width="128"/> <img src="/results/13.png" width="128"/> <img src="/results/14.png" width="128"/>
 
-With a PSNR of 29.88, the model has beaten the cvpr 2019 paper for the same (<a href='https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf'> Click Here</a>
+With a PSNR of 29.88, the model has beaten the cvpr 2019 paper for the same (<a href='https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf' target="blank"> Click Here</a>)
 
 <center>Made with ❤ by Bhuvan Aggarwal and Omkar Ghugarkar</center>
